@@ -1,3 +1,5 @@
 1. git init 
 2. git commit 
 3. git checkout -b Dev1
+4. git merge master
+5. git remote add origin https://github.com/gaz-oracle/testgit.git (origin -> hace referencia a la URL del repositorio en la nube o tambien conocido como "origen remoto" )
