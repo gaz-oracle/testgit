@@ -11,3 +11,6 @@ git branch
 git branch         
 Dev1
 * main
+
+08/04/23
+8. git pull origin main
