@@ -29,7 +29,7 @@ nothing to commit, working tree clean
 
 11.
 git branch -c Dev2
-fcogaz@MacBook-Pro-de-FCO GitMain % git branch        
+ % git branch        
   Dev1
   Dev2
 * main
@@ -50,4 +50,3 @@ remote:      https://github.com/gaz-oracle/testgit/pull/new/Dev2
 remote: 
 To https://github.com/gaz-oracle/testgit.git
  * [new branch]      HEAD -> Dev2
- 
