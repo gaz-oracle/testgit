@@ -14,3 +14,26 @@ Dev1
 
 08/04/23
 8. git pull origin main
+
+9. git checkout  Dev1
+Switched to branch 'Dev1'
+* Dev1
+main
+
+10.
+git status        
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+11.
+git branch -c Dev2
+fcogaz@MacBook-Pro-de-FCO GitMain % git branch        
+  Dev1
+  Dev2
+* main
+
+12.
+git checkout Dev2 
+Switched to branch 'Dev2'
