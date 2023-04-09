@@ -50,3 +50,10 @@ remote:      https://github.com/gaz-oracle/testgit/pull/new/Dev2
 remote: 
 To https://github.com/gaz-oracle/testgit.git
  * [new branch]      HEAD -> Dev2
+
+ 14.
+ git merge Dev2
+Updating 4c8314f..57db5fb
+Fast-forward
+ basic.txt | 38 +++++++++++++++++++++++++++++++++++++-
+ 1 file changed, 37 insertions(+), 1 deletion(-)
