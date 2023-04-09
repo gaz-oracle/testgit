@@ -42,4 +42,12 @@ Dev1
 * Dev2
 main
 
-13.
+13. git push origin HEAD
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+remote: 
+remote: Create a pull request for 'Dev2' on GitHub by visiting:
+remote:      https://github.com/gaz-oracle/testgit/pull/new/Dev2
+remote: 
+To https://github.com/gaz-oracle/testgit.git
+ * [new branch]      HEAD -> Dev2
+ 
